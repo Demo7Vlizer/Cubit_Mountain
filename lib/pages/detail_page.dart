@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/misc/colors.dart';
-import 'package:my_app/widgets/app_buttons.dart';
 import 'package:my_app/widgets/app_large_text.dart';
 import 'package:my_app/widgets/app_text.dart';
-import 'package:my_app/widgets/responsive_button.dart';
 
 class DetailPage extends StatefulWidget {
   final String name;
